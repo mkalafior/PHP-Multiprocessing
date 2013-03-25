@@ -5,9 +5,8 @@ Multiprocessing for PHP5 to speed up heavy tasks.
 
 Requires
 ===================
-PHP compiled with --enable-pcntl
-PHP compiled with --enable-sysvshm
-UNIX/Linux
+- PHP compiled with --enable-pcntl and --enable-sysvshm
+- UNIX/Linux
 
 How to run it
 ===================
